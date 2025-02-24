@@ -9,66 +9,50 @@ This AI assistant is implemented in **Python** and is user-friendly, making it e
 
 ---
 ## 📐 Modules/Libraries Used
-### 🔸 **SpeechRecognition**
+
+### 🔸 **SpeechRecognition** 🗣️
 - Converts voice commands into text input.
 - Supports multiple speech recognition engines.
 
-### 🔸 **Pyttsx3**
+### 🔸 **Pyttsx3** 🔊
 - Converts text to speech for AI responses.
 - Works offline and is lightweight.
 
-### 🔸 **Datetime**
+### 🔸 **Datetime** 🕒
 - Provides real-time date and time.
 - Used for greeting users appropriately.
 
-### 🔸 **Wikipedia**
+### 🔸 **Wikipedia** 📚
 - Fetches summarized information from Wikipedia.
 - Helps in quick research and knowledge retrieval.
 
-### 🔸 **Web Browser**
+### 🔸 **Web Browser** 🌐
 - Opens websites based on user commands.
 - Automates web navigation.
 
-### 🔸 **OS**
+### 🔸 **OS** 💻
 - Interacts with the system’s file management.
 - Used for executing system-level tasks.
 
-### 🔸 **PyAutoGUI**
+### 🔸 **PyAutoGUI** 🖱️
 - Captures screenshots.
 - Simulates keyboard and mouse interactions.
 
-### 🔸 **Random**
+### 🔸 **Random** 🎲
 - Generates random responses for interactive conversations.
 
 ---
 ## 🔧 Features
 
 ### 👉 1. Greets the user based on the time of the day
-<img src="https://your-image-link.com/greeting.jpg" alt="Greeting User">
-
 ### 👉 2. Provides current date and time
-<img src="https://your-image-link.com/time.jpg" alt="Time Display">
-
 ### 👉 3. Searches for information on Wikipedia
-<img src="https://your-image-link.com/wiki-search.jpg" alt="Wikipedia Search">
-
 ### 👉 4. Opens websites using voice commands
-<img src="https://your-image-link.com/browser-open.jpg" alt="Website Opening">
-
 ### 👉 5. Plays music from a specified directory
-<img src="https://your-image-link.com/music-player.jpg" alt="Music Player">
-
 ### 👉 6. Performs Google searches
-<img src="https://your-image-link.com/google-search.jpg" alt="Google Search">
-
 ### 👉 7. Takes important notes and saves them as text files
-<img src="https://your-image-link.com/note-taking.jpg" alt="Taking Notes">
-
 ### 👉 8. Captures and saves screenshots
-<img src="https://your-image-link.com/screenshot.jpg" alt="Taking Screenshot">
-
 ### 👉 9. Shuts down the assistant upon request
-<img src="https://your-image-link.com/shutdown.jpg" alt="Shutting Down">
 
 ---
 ## 🔢 Commands List
@@ -134,7 +118,5 @@ copies or substantial portions of the Software.
 ## 👤 Author & Contact
 
 - **Author:** Prashanth
-- **LinkedIn:** [linkedin.com/in/prashanth](https://www.linkedin.com/in/gummala-prashanth-1a34a3273/)
-- **Email:** [prashanth@example.com](mailto:gummalaprashanth509@example.com)
-
----
+- **LinkedIn:** [Gummala Prashanth](https://www.linkedin.com/in/gummala-prashanth-1a34a3273/)
+- **Email:** [gummalaprashanth509@gmail.com](mailto:gummalaprashanth509@gmail.com)
